@@ -1,0 +1,7 @@
+My own Touhou-like game!
+
+A vertical shoot em up. A classic.
+
+As always, double click on TDS_alpa_v1.exe to play.
+
+Use the arrow keys to move and x to shoot.
